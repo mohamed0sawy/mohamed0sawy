@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://javatutorial.net/wp-content/uploads/2017/12/spring-featured-image-760x330.png" alt="Image 1">
-  <img src="https://th.bing.com/th/id/R.3edc84222eaca6a5cf5e3fde8316cca4?rik=kPP586tA7RD2fQ&riu=http%3a%2f%2fwww.p92.com%2fbinaries%2fcontent%2fgallery%2fp92website%2ftechnologies%2fjava-overview.png&ehk=DYC36TmHX3dNChmyBta55QUqX8VJ8zS8AwZSMIyPi7c%3d&risl=&pid=ImgRaw" alt="Image 2">
-</p>
+| ![MasterHead](https://javatutorial.net/wp-content/uploads/2017/12/spring-featured-image-760x330.png) | ![MasterHead](https://th.bing.com/th/id/R.3edc84222eaca6a5cf5e3fde8316cca4?rik=kPP586tA7RD2fQ&riu=http%3a%2f%2fwww.p92.com%2fbinaries%2fcontent%2fgallery%2fp92website%2ftechnologies%2fjava-overview.png&ehk=DYC36TmHX3dNChmyBta55QUqX8VJ8zS8AwZSMIyPi7c%3d&risl=&pid=ImgRaw) |
+|---|---|
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 <h3 align="center">Welcome to my Java realm, where code transforms into innovation, and every challenge is an opportunity for elegant solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed0tarek&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed0tarek" /> </p>
