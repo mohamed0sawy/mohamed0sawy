@@ -2,7 +2,7 @@
 |---|---|
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
+<h1 align="center">Hi 👋, I'm Mohamed ElSawy</h1>
 <h3 align="center">Welcome to my Java realm, where code transforms into innovation, and every challenge is an opportunity for elegant solutions.</h3>
 
 
